@@ -1,5 +1,5 @@
 # Arabic Text-to-SQL Generation Pipeline 🧠🔁🗃️
-![Image](https://github.com/user-attachments/assets/7ad7bb10-aef6-47f2-85f7-a029ae576209)
+![Image](https://github.com/user-attachments/assets/e1ffea37-8a0a-4229-8dbf-cf989cf587e2)
 
 This repository presents an end-to-end pipeline for translating **Arabic natural language questions** into **SQL queries**. It integrates Arabic linguistic preprocessing, semantic embedding, schema linking, and T5 model fine-tuning — specifically designed for schema-aware SQL generation from Arabic input.
 
